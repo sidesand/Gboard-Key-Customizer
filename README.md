@@ -1,5 +1,3 @@
-# Gboard-Key-Customizer
-
 # Gboard 按键自定义模块 (Gboard Key Customizer)
 
 一个基于 LSPosed API 101 的 Xposed 模块，用于自定义 Gboard 字母键的下滑手势动作。可以为 26 个字母键中的任意一个绑定单动作或组合动作（例如「全选 → 删除选中」实现一键清空输入框），并可突破 Gboard 内置的剪贴板字符上限。
